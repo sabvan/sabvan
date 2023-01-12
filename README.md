@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sabvan
-- 👀 I’m interested in computer vision and machine learning
+- 👀 I’m interested in data science, web development, and machine learning.
 - 🌱 I’m currently learning Java and brushing up on some front-end development.
 - 💞️ I’m looking to collaborate on anything really!
 
