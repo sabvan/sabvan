@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sabvan, a second-year Computer Science student at Princeton University.
-- 👀 I’m interested in data science, web development, and machine learning.
-- 🌱 I’m currently learning Java and brushing up on some front-end development.
-- 💞️ I’m looking to collaborate on anything really!
+Hi! I’m Sabrina Van, a second-year Computer Science student at Princeton University with minors in Statistics/Machine Learning
+and Optimization/Quantitative Decision Science. I am interested in trading, neural networks/machine learning, and full-stack web development.
+I love a fast-paced environment so I am hoping to break into quantitative trading or software development in a start-up. 
+
 
 <!---
 sabvan/sabvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
