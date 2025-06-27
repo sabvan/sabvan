@@ -1,6 +1,5 @@
-Hi! I’m Sabrina Van, a rising third-year Computer Science student at Princeton University with minors in Statistics/Machine Learning
-and Optimization/Quantitative Decision Science. I am interested in quantitative trading, neural networks/machine learning, and full-stack web development.
-I love a fast-paced environment so I am hoping to break into quantitative trading or software development in a lively tech start-up. 
+Hi! I’m Sabrina Van, a rising senior Computer Science student at Princeton University with minors in Statistics/Machine Learning
+and Optimization/Quantitative Decision Science. I am interested in finance, neural networks/machine learning, and full-stack web development.
 
 
 <!---
